@@ -1,1 +1,1 @@
-# social media template
+# social media iso, android & web application
