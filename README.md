@@ -1,4 +1,4 @@
-# GIBLE- SOCIAL MEDIA APP UI
+# GIBLE- SOCIAL MEDIA UI APP
 This app was created using flutter
 
 # SCREENSHOTS
