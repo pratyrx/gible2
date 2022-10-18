@@ -1,4 +1,4 @@
-# GIBLE- SOCIAL MEDIA APP
+# Student Project Management in JAVA 
 ...
 
 # SCREENSHOTS
