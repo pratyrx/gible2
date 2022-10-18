@@ -1,4 +1,4 @@
-# Student Project Management in JAVA 
+# Student Project Management in C
 ...
 
 # SCREENSHOTS
