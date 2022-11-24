@@ -1,7 +1,7 @@
 # Student Project Management in C
 To maintain information of students, data structure Created:
 
-***Student Structure*** 
+# Student Structure
 a. Enrollment no.
 b. Name
 c. Mobile no.
