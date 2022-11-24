@@ -7,9 +7,9 @@ Enrollment no., Name, Mobile no., Project name, Faculty assigned, Marks
 
 
 # Features
-a. Insert Student
-b. Modify Enrollment no., Name, Mobile no., Project name, Faculty assigned & Marks
-c. Display Student Information
+1- Insert Student
+2- Modify Enrollment no., Name, Mobile no., Project name, Faculty assigned & Marks
+3- Display Student Information
 
 
 # SCREENSHOTS
