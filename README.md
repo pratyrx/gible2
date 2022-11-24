@@ -3,12 +3,7 @@ To maintain information of students, data structure Created:
 
 
 # Student Structure
-a. Enrollment no.
-b. Name
-c. Mobile no.
-d. Project name
-e. Faculty assigned
-f. Marks
+Enrollment no., Name, Mobile no., Project name, Faculty assigned, Marks
 
 
 # Features
